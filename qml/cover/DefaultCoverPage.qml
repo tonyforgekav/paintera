@@ -43,7 +43,7 @@ CoverBackground {
 
     CoverPlaceholder {
         objectName: "placeholder"
-        text: qsTr("Paintera")
+        text: qsTr("Paintera3")
         icon {
             source: Qt.resolvedUrl("../icons/Paintera.svg")
             sourceSize { width: icon.width; height: icon.height }
