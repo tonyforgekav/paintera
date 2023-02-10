@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.Paintera
+Exec=/usr/bin/ru.auroraos.Paintera
+Name=Paintera
+Name[ru]=Пейнтера
+
+[X-Application]
+Permissions=Sensors;Camera;MediaIndexing;UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=Paintera
+ExecDBus=/usr/bin/ru.auroraos.Paintera
